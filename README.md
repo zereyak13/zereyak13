@@ -28,11 +28,11 @@ class InterestedTechnologies extends SoftwareDeveloper {
 
 
   Hi there✨
-- 🌱 I’m currently learning DevOps Technologies.
-- 💬 Ask me about C#/UnityD.
-- 📫 How to reach me: tahazryk@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ LinkedIn: https://www.linkedin.com/in/tahazereyak/
+🌱 I’m currently learning DevOps Technologies.
+💬 Ask me about C#/UnityD.
+📫 How to reach me: tahazryk@gmail.com
+😄 Pronouns: He/His
+⚡ LinkedIn: https://www.linkedin.com/in/tahazereyak/
 ----
 Last Edited on: 04/26/2022
 
