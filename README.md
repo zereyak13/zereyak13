@@ -24,11 +24,8 @@ class InterestedTechnologies extends SoftwareDeveloper {
 }
 
 ```
-
-
-- 🔭 I’m currently working on 
+              ✨✨Hi there✨✨
 - 🌱 I’m currently learning DevOps Technologies.
-- 🤔 I’m looking for help with Kubernetes.
 - 💬 Ask me about C#/UnityD.
 - 📫 How to reach me: tahazryk@gmail.com
 - 😄 Pronouns: He/His
