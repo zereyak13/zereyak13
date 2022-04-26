@@ -27,7 +27,7 @@ class InterestedTechnologies extends SoftwareDeveloper {
 
 
 
-              Hi there✨
+  Hi there✨
 - 🌱 I’m currently learning DevOps Technologies.
 - 💬 Ask me about C#/UnityD.
 - 📫 How to reach me: tahazryk@gmail.com
