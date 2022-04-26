@@ -16,9 +16,10 @@ class Skills extends SoftwareDeveloper {
   languages  = ['Phyton', 'JavaScript', 'C#'];
   databases  = ['MySQL'];
   frameworks = ['.Net',];
+  OS = ['Linux', 'Windows']
+  
 }
 ```
-
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning DevOps Technologies.
