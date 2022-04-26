@@ -8,7 +8,7 @@
     </style>
 <div align="center">
 <h2<p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MOKp0Jew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.probytes.net/wp-content/uploads/2018/01/4-1.png" loading="lazy">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MOKp0Jew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.probytes.net/wp-content/uploads/2018/01/4-1.png" loading="lazy" width="500" height="600">
 </p>
 
 ```js
