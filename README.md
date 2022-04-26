@@ -20,12 +20,19 @@ class Skills extends SoftwareDeveloper {
 }
 class InterestedTechnologies extends SoftwareDeveloper {
   cloud  = ['AWS'];
-  containizeration  = ['Docker', 'Kubernetes'];
+  containerization  = ['Docker', 'Kubernetes'];
 }
 
 ```
 
 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning DevOps Technologies.
+- 🤔 I’m looking for help with Kubernetes.
+- 💬 Ask me about C#/UnityD.
+- 📫 How to reach me: tahazryk@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ LinkedIn: https://www.linkedin.com/in/tahazereyak/
 ----
 Last Edited on: 04/26/2022
 
