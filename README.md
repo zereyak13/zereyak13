@@ -6,7 +6,7 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'tahazereyak';
+import SoftwareDeveloper;
 
 class Bio extends SoftwareDeveloper {
   name     = 'Taha Zereyak';
@@ -17,8 +17,11 @@ class Skills extends SoftwareDeveloper {
   languages  = ['Phyton', 'JavaScript', 'C#'];
   databases  = ['MySQL'];
   frameworks = ['.Net',];
-  OS = ['Linux', 'Windows']
-  
+  OS = ['Linux', 'Windows']  
+}
+class InterestedTechnologies extends SoftwareDeveloper {
+  cloud  = ['AWS'];
+  containizeration  = ['Docker', 'Kubernetes'];
 }
 
 ```
