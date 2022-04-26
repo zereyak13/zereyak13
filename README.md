@@ -4,7 +4,7 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'tahazereyak';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Taha Zereyak';
@@ -19,7 +19,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 ----
-Credit: [thompsonemerson](https://github.com/thompsonemerson)
+
 
 Last Edited on: 23/09/2020
 
