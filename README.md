@@ -10,6 +10,7 @@
 
 ```js
 import SoftwareDeveloper;
+import DevOps;
 
 class Bio extends SoftwareDeveloper {
   name     = 'Taha Zereyak';
@@ -22,7 +23,7 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['.Net',];
   OS = ['Linux', 'Windows']  
 }
-class InterestedTechnologies extends SoftwareDeveloper {
+class InterestedTechnologies extends DevOps {
   cloud  = ['AWS'];
   containerization  = ['Docker', 'Kubernetes'];
 }
