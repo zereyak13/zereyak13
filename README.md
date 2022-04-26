@@ -11,7 +11,6 @@ class Bio extends SoftwareDeveloper {
   title    = 'Software Engineer';
   location = 'Turkey';
 }
-
 class Skills extends SoftwareDeveloper {
   languages  = ['Phyton', 'JavaScript', 'C#'];
   databases  = ['MySQL'];
@@ -21,13 +20,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning DevOps Technologies.
-- 🤔 I’m looking for help with Kubernetes.
-- 💬 Ask me about C#/UnityD.
-- 📫 How to reach me: tahazryk@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ LinkedIn: https://www.linkedin.com/in/tahazereyak/
+
 ----
 
 
