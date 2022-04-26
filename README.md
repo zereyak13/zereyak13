@@ -5,8 +5,6 @@
 - 😄 Pronouns: He/His
 - ⚡ LinkedIn: https://www.linkedin.com/in/tahazereyak/
 
-<div align="center">
-<h2<p align="center">
 
 </p>
 
