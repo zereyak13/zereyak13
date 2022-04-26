@@ -21,9 +21,6 @@ class Skills extends SoftwareDeveloper {
   
 }
 
-
-
-```
 ```
 
 
