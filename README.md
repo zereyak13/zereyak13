@@ -24,11 +24,7 @@ class Skills extends SoftwareDeveloper {
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MOKp0Jew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.probytes.net/wp-content/uploads/2018/01/4-1.png" loading="lazy" width="320" height="180">
 
 ----
-
-
-Last Edited on: 23/09/2020
-
-Last Edited on: 30/08/2020
+Last Edited on: 04/26/2022
 
 <!--
 **zereyak13/zereyak13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
