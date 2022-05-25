@@ -20,7 +20,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['Phyton', 'C#', 'Java'];
   databases  = ['MySQL'];
-  frameworks = ['.Net',];
+  frameworks = ['.Net', 'Spring'];
   OS = ['Linux', 'Windows']  
 }
 class InterestedTechnologies extends DevOps {
