@@ -18,7 +18,7 @@ class Bio extends SoftwareDeveloper {
   location = 'Turkey';
 }
 class Skills extends SoftwareDeveloper {
-  languages  = ['Phyton', 'JavaScript', 'C#'];
+  languages  = ['Phyton', 'C#', 'Java'];
   databases  = ['MySQL'];
   frameworks = ['.Net',];
   OS = ['Linux', 'Windows']  
