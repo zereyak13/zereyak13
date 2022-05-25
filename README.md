@@ -1,6 +1,6 @@
 
   Hi there✨
-- 🌱 I’m currently learning DevOps Technologies.
+- 🌱 I’m currently learning Java/DevOps Technologies.
 - 📫 How to reach me: tahazryk@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ LinkedIn: https://www.linkedin.com/in/tahazereyak/
