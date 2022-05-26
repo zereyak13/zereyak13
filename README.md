@@ -5,9 +5,6 @@
 - 😄 Pronouns: He/His
 - ⚡ LinkedIn: https://www.linkedin.com/in/tahazereyak/
 
--<a href="https://www.w3schools.com">Visit W3Schools</a>
-
--<a href="https://www.w3schools.com">Visit W3Schools</a>
 </p>
 
 ```js
