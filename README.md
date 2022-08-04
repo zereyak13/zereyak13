@@ -23,8 +23,9 @@ class Skills extends SoftwareDeveloper {
   OS = ['Linux', 'Windows Server']  
 }
 class InterestedTechnologies extends DevOps {
-  cloud  = ['AWS'];
+  cloud  = ['Networking', 'AWS'];
   containerization  = ['Docker', 'Kubernetes'];
+  
 }
 
 ```
