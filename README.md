@@ -17,10 +17,10 @@ class Bio extends SoftwareDeveloper {
   location = 'Turkey';
 }
 class Skills extends SoftwareDeveloper {
-  languages  = ['Phyton', 'C#', 'Java'];
+  languages  = ['Phyton', 'C#', 'Java', 'Linux Bash'];
   databases  = ['MySQL'];
-  frameworks = ['.Net', 'Spring'];
-  OS = ['Linux', 'Windows']  
+  frameworks = ['.Net'];
+  OS = ['Linux', 'Windows Server']  
 }
 class InterestedTechnologies extends DevOps {
   cloud  = ['AWS'];
